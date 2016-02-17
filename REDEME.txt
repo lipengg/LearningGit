@@ -2,4 +2,4 @@ learn the git use in distributed development
 
 master branch
 
-version 03
+version 04
