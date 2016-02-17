@@ -1,1 +1,3 @@
 learn the git use in distributed development
+
+test 1.0.0
