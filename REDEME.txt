@@ -2,6 +2,5 @@ learn the git use in distributed development
 
 master branch
 
-version 02
 
-merage local
+test merage
