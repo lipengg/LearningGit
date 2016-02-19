@@ -2,5 +2,4 @@ learn the git use in distributed development
 
 master branch
 
-
-test merage
+test merage remote
