@@ -3,3 +3,5 @@ learn the git use in distributed development
 master branch
 
 version 04
+
+test merage remote
