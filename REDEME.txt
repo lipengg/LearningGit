@@ -1,4 +1,4 @@
 learn the git use in distributed development
 
 master branch
-test merage 2
+test merage 1
