@@ -2,6 +2,4 @@ learn the git use in distributed development
 
 master branch
 
-test commit reset
-
-test commit reset1
+12313
