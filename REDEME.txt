@@ -2,6 +2,5 @@ learn the git use in distributed development
 
 master branch
 
-111111111111
-2222222222
-3333333333
+111111111111111111
+2222222222222
